@@ -1,23 +1,3 @@
-VirusDetector.py
-E
-Type
-Text
-Size
-12 KB (11,824 bytes)
-Storage used
-12 KB (11,824 bytes)
-Location
-VirusDetectorMiniProject
-Owner
-me
-Modified
-4:20 PM by me
-Opened
-4:21 PM by me
-Created
-4:20 PM with ZIP Extractor
-Add a description
-Viewers can download
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
